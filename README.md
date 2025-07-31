@@ -23,20 +23,6 @@ Sou uma profissional de Experiência do Cliente apaixonada por tecnologia, dados
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /></a>
 </div>
 
----
-
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?GABRIELLE-SOUZA98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabrielle Souza" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?GABRIELLE-SOUZA98&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Gabrielle Souza" />
-    </td>
-  </tr>
-</table>
 
 ---
 
