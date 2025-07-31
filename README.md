@@ -6,10 +6,12 @@ Sou uma profissional de Experiência do Cliente apaixonada por tecnologia, dados
 
 ### 💬 Sobre mim
 
-* 🎓 Graduanda em **Ciência de Dados**, buscando usar dados para gerar insights e otimizar a experiência do cliente.
-* 💻 Desenvolvedora em formação no ecossistema **.NET e C#**, através do Bootcamp da DIO em parceria com a GFT.
+
+* 🎓 Formação multidisciplinar: **Comunicação Social**, Pós em **Gestão de Pessoas** e Técnica em **Produção de Moda**.
+* 💻 Hoje, conecto essa bagagem ao universo da tecnologia como desenvolvedora em formação no ecossistema **.NET** (via Bootcamp DIO e GFT).
+* 📈 Graduanda em **Ciência de Dados**, focada em usar dados para otimizar a experiência do cliente e gerar insights de negócio.
 * 💡 Entusiasta em unir a **comunicação empática** com a **lógica do desenvolvimento** para construir produtos melhores.
-* 🚀 Aberta a novas conexões e oportunidades nas áreas de Atendimento, Sucesso do Cliente e Desenvolvimento.
+* 🚀 Buscando oportunidades que combinem minhas experiências em Atendimento, Sucesso do Cliente e Desenvolvimento.
 
 ---
 
