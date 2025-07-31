@@ -30,10 +30,10 @@ Sou uma profissional de Experiência do Cliente apaixonada por tecnologia, dados
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabrielle Souza" />
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielle-souza98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabrielle Souza" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Gabrielle Souza" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-souza98&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Gabrielle Souza" />
     </td>
   </tr>
 </table>
@@ -43,4 +43,4 @@ Sou uma profissional de Experiência do Cliente apaixonada por tecnologia, dados
 ### 📫 Como me encontrar:
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-souza98/)
-* **Email:** seu.email.profissional@exemplo.com
+* **Email:** gabriellesouzaestudos@gmail.com
